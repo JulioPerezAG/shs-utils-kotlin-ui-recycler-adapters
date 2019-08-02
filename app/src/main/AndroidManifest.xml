@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.shs.ui.utils.commons.adapters">
+
+    <application android:allowBackup="false"
+                 android:label="@string/app_name"
+                 android:supportsRtl="true"/>
+</manifest>
